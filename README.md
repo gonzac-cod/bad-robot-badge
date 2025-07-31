@@ -1,4 +1,4 @@
-# bar-robot-badges
+# bad-robot-badges
 
 Conference badge/jammer with arduino.
 
