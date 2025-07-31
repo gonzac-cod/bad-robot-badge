@@ -2,6 +2,8 @@
 
 Conference badge/jammer with arduino.
 
+![Conference badge demo image](demo.gif)
+
 ## Electronic components
 
 - 1 Arduino NANO
@@ -18,11 +20,18 @@ Conference badge/jammer with arduino.
 - 6 resistors 220Ω
 
 *Optional:
-- Fuente 3v and 5v Mb102
-- ESP-01 Breakoutresistor
+- Breadboard Power Supply 3v and 5v Mb102
+- ESP-01 Breakout
 
 
 ## Description
 
 This badge scans nearby Wi-Fi networks to obtain signal strength, network name, and channel information. It also allows you to block networks on the selected channel.
 
+### Circuit diagram
+
+![Circuit diagram image](/designs/bad-robot-circuit.png)
+
+### PCB design
+
+![PCB image](/designs/bad-robot-pcb.png)
